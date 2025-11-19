@@ -10,7 +10,7 @@ Each project includes the Power BI file (*.pbix*), the dataset used, and a short
 ## 🚀 Projects
 
 ### **1. Customer Service Performance Dashboard**
-A complete analytics report designed to evaluate customer service operations during a specific period.
+A complete analytics report designed to evaluate customer service operations during a specific period. This one was created in my first PowerBI DaxusLatam class.
 
 **Key insights included:**
 - ✔️ Total number of calls and assistance provided  
@@ -60,3 +60,4 @@ Stay tuned for future updates 👀
 If you want to connect or see more of my work:  
 🔗 **LinkedIn:** *www.linkedin.com/in/michael-bonilla-7b1493397*  
  
+
