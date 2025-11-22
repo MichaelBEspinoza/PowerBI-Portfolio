@@ -32,7 +32,7 @@ Donut chart • Treemap • KPIs • Horizontal bar charts • Date slicers • 
 
 
 ### **2. HR Employee Analytics Dashboard**
-A human resources dashboard focused on analyzing employee distribution, performance, and salary insights across the organization. This report provides a clear overview of workforce demographics and departmental structure.
+A human resources dashboard focused on analyzing employee distribution, performance, and salary insights across the organization. This report provides a clear overview of workforce demographics and departmental structure. This dashboard was created during my second Power BI class at DaxusLatam as part of a certification program.
 
 **Key insights included:**
 - ✔️ Total number of active employees  
@@ -81,5 +81,6 @@ Stay tuned for future updates 👀
 If you want to connect or see more of my work:  
 🔗 **LinkedIn:** *www.linkedin.com/in/michael-bonilla-7b1493397*  
  
+
 
 
