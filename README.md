@@ -30,7 +30,6 @@ Donut chart • Treemap • KPIs • Horizontal bar charts • Date slicers • 
 
 ---
 
-
 ### **2. HR Employee Analytics Dashboard**
 A human resources dashboard focused on analyzing employee distribution, performance, and salary insights across the organization. This report provides a clear overview of workforce demographics and departmental structure. This dashboard was created during my second Power BI class at DaxusLatam as part of a certification program.
 
@@ -48,6 +47,27 @@ KPI cards • Funnel chart • Bar charts • Table matrix • Column charts
 **Files:**  
 - PowerBI-DatosDeRH.pbix  
 - bd_integrantes_Esp.xlsx
+
+---
+
+### **3. Financial Performance & Store Analytics Dashboard**
+A financial dashboard designed to analyze sales performance, product demand, and store distribution across multiple locations in Brazil. This report provides a clear overview of monthly revenue, commissions, order volume, and store contribution to total sales.
+
+**Key insights included:**
+- ✔️ Total revenue generated across all stores  
+- ✔️ Total number of orders processed  
+- ✔️ Total commissions earned  
+- ✔️ Revenue contribution by each store  
+- ✔️ Monthly revenue trends throughout the year  
+- ✔️ Interactive product filter to analyze specific categories  
+- ✔️ Geographic store distribution displayed on a dynamic map  
+
+**Visuals used:**  
+KPI cards • Bar charts • Map visual • Product selector • Matrix table
+
+**Files:**  
+- PowerBI-DatosDeVentas.pbix  
+- bd_ventas_ESP.xlsx
 
 ---
 
