@@ -51,7 +51,7 @@ KPI cards • Funnel chart • Bar charts • Table matrix • Column charts
 ---
 
 ### **3. Financial Performance & Store Analytics Dashboard**
-A financial dashboard designed to analyze sales performance, product demand, and store distribution across multiple locations in Brazil. This report provides a clear overview of monthly revenue, commissions, order volume, and store contribution to total sales.
+A financial dashboard designed to analyze sales performance, product demand, and store distribution across multiple locations in Brazil. This report provides a clear overview of monthly revenue, commissions, order volume, and store contribution to total sales. This dashboard was created during my third Power BI class at DaxusLatam as part of a certification program.
 
 **Key insights included:**
 - ✔️ Total revenue generated across all stores  
@@ -101,6 +101,7 @@ Stay tuned for future updates 👀
 If you want to connect or see more of my work:  
 🔗 **LinkedIn:** *www.linkedin.com/in/michael-bonilla-7b1493397*  
  
+
 
 
 
