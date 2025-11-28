@@ -71,6 +71,29 @@ KPI cards • Bar charts • Map visual • Product selector • Matrix table
 
 ---
 
+### **4. E-commerce Sales & Customer Insights Dashboard (Azure Synapse Integration)**
+This dashboard is connected directly to an Azure Synapse Analytics database, which stores real e-commerce data from the Aimeos platform used in my university project.  
+It provides a complete overview of customer behavior, top-selling products, discount impact, SME responses, and geographic purchase trends across Central America.
+
+**Key insights included:**
+- ✔️ New customers purchasing the most products in Q4  
+- ✔️ Geographic distribution of purchases across Central America  
+- ✔️ SME spending behavior and response to new product launches  
+- ✔️ Impact of discounts and coupons on SMEs  
+- ✔️ Top-selling products in Costa Rica during Q4 2025  
+- ✔️ Relationship between product ratings and sales  
+
+**Technology used:**  
+Azure Synapse Analytics • Aimeos E-commerce • Power BI • Real-time database connection
+
+**Visuals used:**  
+Maps • Bar charts • Donut chart • Line chart • KPI indicators
+
+**Files:**  
+- proyecto-aplicada.pbix (Azure Synapse connected)
+
+---
+
 ### **More Projects Coming Soon**
 This portfolio will continue to grow as I build more dashboards covering areas such as:
 
