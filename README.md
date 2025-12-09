@@ -94,6 +94,50 @@ Maps • Bar charts • Donut chart • Line chart • KPI indicators
 
 ---
 
+### **5. Sales Monitoring & Store Performance Dashboard**
+A complete sales analytics dashboard designed to compare store performance, analyze monthly revenue trends, and identify top-selling products and best-performing sellers. This project provides a clear and interactive view of how each store contributes to total sales across the year.
+
+**Key insights included:**
+- ✔️ Revenue comparison between branches (Sucursal 1, Sucursal 2, Sucursal 3, Matriz)  
+- ✔️ Sales representation by store  
+- ✔️ Average sales amount per store  
+- ✔️ Monthly revenue and total orders trend  
+- ✔️ Top 3 sellers by total sales  
+- ✔️ Best-selling products shown in a treemap  
+- ✔️ Geographic distribution of sales across Colombia  
+
+**Visuals used:**  
+KPI cards • Pie chart • Bar charts • Line chart • Treemap • Map visual
+
+**Files:**  
+- ventas.xlsx  
+- PowerBI-StoresData.pbix
+
+---
+
+### **6. Global Video Game Sales & Market Insights Dashboard**
+This dashboard analyzes worldwide video game sales using a dataset stored and managed in an Oracle database. The report provides insights into sales performance by platform, genre, publisher, and region, helping identify global trends in the gaming industry.
+
+**Key insights included:**
+- ✔️ Total global sales across all video game titles  
+- ✔️ Top-selling platforms  
+- ✔️ Sales performance by genre  
+- ✔️ Publisher market comparison  
+- ✔️ Regional sales distribution (NA, EU, JP, Others)  
+- ✔️ Year-over-year sales trends  
+
+**Technology used:**  
+Oracle Database • SQL • Power BI • CSV ingestion workflow
+
+**Visuals used:**  
+Bar charts • Column charts • Treemap • Line chart • Platform/genre/year filters
+
+**Files:**  
+- OracleDB-BDA.pbix  
+- vgsales.csv  
+
+---
+
 ### **More Projects Coming Soon**
 This portfolio will continue to grow as I build more dashboards covering areas such as:
 
