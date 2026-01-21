@@ -138,6 +138,31 @@ Bar charts • Column charts • Treemap • Line chart • Platform/genre/year 
 
 ---
 
+### **7. Sales Analysis & Profitability Dashboard (XSales)**
+A comprehensive sales analytics dashboard focused on evaluating revenue, costs, profit margins, and customer segmentation across multiple regions and time periods. This project emphasizes financial performance analysis and decision-oriented insights using a clean UI and advanced DAX calculations.
+
+**Key insights included:**
+- ✔️ Total net revenue, total cost, and total profit  
+- ✔️ Monthly revenue trends with average benchmark  
+- ✔️ Profit and profit margin (%) by product  
+- ✔️ Sales distribution by country  
+- ✔️ Revenue and profit analysis by customer type (Government, SMEs, Online, etc.)  
+- ✔️ Identification of high-margin and low-margin products  
+- ✔️ Impact of discounts on overall profitability  
+
+**Visuals used:**  
+KPI cards • Line chart with average reference • Bar charts • Table matrix • Customer segmentation visuals • Year slicers
+
+**Skills & concepts applied:**  
+DAX measures • Profit margin calculations • Time intelligence • Financial KPIs • Interactive filters • UI/UX dashboard design
+
+**Files:**  
+- PowerBI-XSales.pbix  
+- Análisis de ventas.xlsx  
+
+---
+
+
 ### **More Projects Coming Soon**
 This portfolio will continue to grow as I build more dashboards covering areas such as:
 
